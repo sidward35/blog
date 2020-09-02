@@ -1,4 +1,4 @@
-# [Siddharth Mathur](https://www.smathur.tk/)
+# [Siddharth Mathur](https://www.smathur.tk/)'s Blog
 
 ## Recent Posts
 
@@ -10,9 +10,9 @@
 
 ### Mobile Apps
 
-[FoodCyclr](https://github.com/sidward35/FoodCyclr) - 🏆 [Hackathon Winner](https://devpost.com/software/foodcyclr) | 🍴 [2 Forks](https://github.com/sidward35/FoodCyclr/network/members)
+[FoodCyclr](https://github.com/sidward35/FoodCyclr) - 🏆 [Hackathon Winner](https://devpost.com/software/foodcyclr), 🍴 [2 Forks](https://github.com/sidward35/FoodCyclr/network/members)
 
-[PCPartPicker](https://github.com/sidward35/PCPartPicker) - 👨‍💼 Acknowledged by the CEO of PCPartPicker, LLC | ⭐ [5 Stars](https://github.com/sidward35/PCPartPicker/stargazers), 🍴 [2 Forks](https://github.com/sidward35/PCPartPicker/network/members)
+[PCPartPicker](https://github.com/sidward35/PCPartPicker) - 👨‍💼 Acknowledged by the CEO of PCPartPicker, LLC, ⭐ [5 Stars](https://github.com/sidward35/PCPartPicker/stargazers), 🍴 [2 Forks](https://github.com/sidward35/PCPartPicker/network/members)
 
 ### IoT
 
