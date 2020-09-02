@@ -6,6 +6,10 @@
 
 [Splunk Your Minecraft Server](https://www.smathur.tk/SplunkMC/)
 
+## Projects
+
+[Splunk App for Stock Market Analysis](https://github.com/sidward35/splunk-stocks-analysis)
+
 ## Other Content
 
 [Tech Multireddit](https://www.smathur.tk/tech)
