@@ -10,17 +10,17 @@
 
 ### Mobile Apps
 
-[FoodCyclr](https://github.com/sidward35/FoodCyclr) - 🏆 [Hackathon Winner](https://devpost.com/software/foodcyclr), 🍴 [2 Forks](https://github.com/sidward35/FoodCyclr/network/members)
+[FoodCyclr](https://github.com/sidward35/FoodCyclr) - 🏆 [Hackathon Winner](https://devpost.com/software/foodcyclr), 🍴 2 Forks
 
-[PCPartPicker](https://github.com/sidward35/PCPartPicker) - 👨‍💼 Acknowledged by the CEO of PCPartPicker, LLC, ⭐ [5 Stars](https://github.com/sidward35/PCPartPicker/stargazers), 🍴 [2 Forks](https://github.com/sidward35/PCPartPicker/network/members)
+[PCPartPicker](https://github.com/sidward35/PCPartPicker) - 👨‍💼 Acknowledged by the CEO of PCPartPicker, LLC, ⭐ 5 Stars, 🍴 2 Forks
 
 ### IoT
 
 [HumiraHelper](https://github.com/sidward35/HumiraHelper) - 🏆 [Hackathon Winner](https://twitter.com/abbvie/status/1145693699118174208)
 
-[Deauth/Rickroll AP](https://github.com/sidward35/Deauth-RickRollAP) - ⭐ [5 Stars](https://github.com/sidward35/Deauth-RickRollAP/stargazers), 🍴 [4 Forks](https://github.com/sidward35/Deauth-RickRollAP/network/members)
+[Deauth/Rickroll AP](https://github.com/sidward35/Deauth-RickRollAP) - ⭐ 5 Stars, 🍴 4 Forks
 
-[ESP8266 Smoke Alarm](https://github.com/sidward35/esp8266-smoke-alarm) - ⭐ [1 Star](https://github.com/sidward35/esp8266-smoke-alarm/stargazers)
+[ESP8266 Smoke Alarm](https://github.com/sidward35/esp8266-smoke-alarm) - ⭐ 1 Star
 
 ### Other
 
