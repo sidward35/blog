@@ -26,7 +26,7 @@
 
 [Apprisen 2.0](https://github.com/sidward35/Apprisen2.0) - 🏆 [Hackathon Winner](https://twitter.com/Apprisen/status/1185649343870582784)
 
-[Splunk App for Stock Market Analysis](https://github.com/sidward35/splunk-stocks-analysis) - [LIVE demo here](http://35.236.118.33:8000)
+[Splunk App for Stock Market Analysis](https://github.com/sidward35/splunk-stocks-analysis) - [LIVE demo here](http://35.236.34.183:8000)
 
 ## Other Content
 
