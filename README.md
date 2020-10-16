@@ -22,11 +22,15 @@
 
 [ESP8266 Smoke Alarm](https://github.com/sidward35/esp8266-smoke-alarm) - ⭐ 1 Star
 
+### Stock Market
+
+[Splunk App for Stock Market Analysis](https://github.com/sidward35/splunk-stocks-analysis) - [LIVE demo here](http://35.236.34.183:8000), ⭐ 1 Star
+
+[Heroku App for Stock Market Analysis](https://github.com/sidward35/heroku-stocks-analysis) - [See it in action here](https://djia-list.herokuapp.com)
+
 ### Other
 
 [Apprisen 2.0](https://github.com/sidward35/Apprisen2.0) - 🏆 [Hackathon Winner](https://twitter.com/Apprisen/status/1185649343870582784)
-
-[Splunk App for Stock Market Analysis](https://github.com/sidward35/splunk-stocks-analysis) - [LIVE demo here](http://35.236.34.183:8000)
 
 ## Other Content
 
