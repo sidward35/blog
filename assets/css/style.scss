@@ -4,6 +4,10 @@
 
 @import "{{ site.theme }}";
 
+header {
+  display: none;
+}
+
 .page-header {
   display: none;
 }
