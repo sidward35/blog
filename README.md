@@ -26,11 +26,13 @@
 
 [Splunk App for Stock Market Analysis](https://github.com/sidward35/splunk-stocks-analysis) - [LIVE demo here](http://35.236.34.183:8000), ⭐ 1 Star
 
-[Heroku App for Stock Market Analysis](https://github.com/sidward35/heroku-stocks-analysis) - [See it in action here](https://djia-list.herokuapp.com)
+[DJIA Rankings with Pandas](https://github.com/sidward35/heroku-stocks-analysis) - [See it in action here](https://djia-list.herokuapp.com)
 
 ### Other
 
 [Apprisen 2.0](https://github.com/sidward35/Apprisen2.0) - 🏆 [Hackathon Winner](https://twitter.com/Apprisen/status/1185649343870582784)
+
+[Visualizing US Spending with Python](https://github.com/sidward35/usa_spending) - [See it in action here](https://usa-budgets.herokuapp.com)
 
 ## Other Content
 
