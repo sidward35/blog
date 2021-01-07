@@ -1,4 +1,4 @@
-# [Siddharth Mathur](https://www.smathur.tk/)'s Blog
+# [Siddharth Mathur](https://www.smathur.tk/)
 
 ## Recent Posts
 
