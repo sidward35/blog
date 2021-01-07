@@ -24,7 +24,7 @@
 
 ### Stock Market
 
-[Splunk App for Stock Market Analysis](https://github.com/sidward35/splunk-stocks-analysis) - [LIVE demo here](http://35.236.34.183:8000), ⭐ 2 Stars
+[Splunk App for Stock Market Analysis](https://github.com/sidward35/splunk-stocks-analysis) - [LIVE demo here](http://splunk.smathur.tk), ⭐ 2 Stars
 
 [DJIA Rankings with Pandas](https://github.com/sidward35/heroku-stocks-analysis) - [See it in action here](https://djia-list.herokuapp.com)
 
