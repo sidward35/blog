@@ -2,6 +2,8 @@
 
 ## Recent Posts
 
+[Trade Stocks with Alexa/Google Home](https://www.smathur.tk/VoiceTrader/)
+
 [Splunk + Facebook Messenger](https://www.smathur.tk/splunk-messenger/)
 
 [Splunk Your Minecraft Server](https://www.smathur.tk/SplunkMC/)
