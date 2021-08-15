@@ -26,15 +26,15 @@
 
 ### Stock Market
 
-[Splunk App for Stock Market Analysis](https://github.com/sidward35/splunk-stocks-analysis) - [LIVE demo here](http://splunk.smathur.tk), ⭐ 3 Stars
+[Splunk App for Stock Market Analysis](https://github.com/sidward35/splunk-stocks-analysis) - ⭐ 3 Stars
 
-[DJIA Rankings with Pandas](https://github.com/sidward35/heroku-stocks-analysis) - [See it in action here](https://djia-list.herokuapp.com)
+[DJIA Rankings with Pandas](https://github.com/sidward35/heroku-stocks-analysis) - [See it in action here](http://djia.smathur.tk)
 
 ### Other
 
 [Apprisen 2.0](https://github.com/sidward35/Apprisen2.0) - 🏆 [Hackathon Winner](https://twitter.com/Apprisen/status/1185649343870582784)
 
-[Visualizing US Spending with Python](https://github.com/sidward35/usa_spending) - [See it in action here](https://usa-budgets.herokuapp.com)
+[Visualizing US Spending with Python](https://github.com/sidward35/usa_spending) - [See it in action here](http://www.usbudget.tk)
 
 ## Other Content
 
