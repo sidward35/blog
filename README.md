@@ -2,7 +2,7 @@
 
 ## Recent Projects
 
-[MiniViz](https://www.miniviz.cf)
+[MiniViz - Live treemap visual of the S&P 500](https://www.miniviz.cf)
 
 [Sherlock Username Search](https://github.com/sidward35/sherlock-web) - [Try it out here](https://www.sleuth.ga)
 
