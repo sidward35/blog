@@ -1,12 +1,10 @@
 # [Siddharth Mathur](https://www.smathur.tk/)
 
-## Recent Posts
+## Recent Projects
 
-[Trade Stocks with Alexa/Google Home](https://www.smathur.tk/VoiceTrader/)
+[MiniViz](https://www.miniviz.cf)
 
-[Splunk + Facebook Messenger](https://www.smathur.tk/splunk-messenger/)
-
-[Splunk Your Minecraft Server](https://www.smathur.tk/SplunkMC/)
+[Sherlock Username Search](https://github.com/sidward35/sherlock-web) - [Try it out here](https://www.sleuth.ga)
 
 ## Top Projects
 
@@ -28,13 +26,21 @@
 
 [Splunk App for Stock Market Analysis](https://github.com/sidward35/splunk-stocks-analysis) - ⭐ 3 Stars
 
+[Trade Stocks with Alexa/Google Home](https://www.smathur.tk/VoiceTrader/) - 🍴 1 Fork
+
 [DJIA Rankings with Pandas](https://github.com/sidward35/heroku-stocks-analysis) - [See it in action here](http://djia.smathur.tk)
+
+### Splunk
+
+[Splunk + Facebook Messenger](https://www.smathur.tk/splunk-messenger/) - ⭐ 1 Star
+
+[Splunk Your Minecraft Server](https://www.smathur.tk/SplunkMC/)
 
 ### Other
 
 [Apprisen 2.0](https://github.com/sidward35/Apprisen2.0) - 🏆 [Hackathon Winner](https://twitter.com/Apprisen/status/1185649343870582784)
 
-[Visualizing US Spending with Python](https://github.com/sidward35/usa_spending) - [See it in action here](http://www.usbudget.tk)
+[Visualizing US Spending with Python](https://github.com/sidward35/usa_spending) - [See it in action here](https://www.usbudget.tk)
 
 ## Other Content
 
