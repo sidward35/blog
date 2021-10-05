@@ -1,13 +1,3 @@
-<script src="https://cdn.signalfx.com/o11y-gdi-rum/latest/splunk-otel-web.js" crossorigin="anonymous">
-</script>
-<script>
-    SplunkRum.init({
-        beaconUrl: 'https://rum-ingest.us1.signalfx.com/v1/rum',
-        rumAuth: 'JUeo4BsZeSWJ8QA7RKV2yA',
-        app: 'personal-website'
-    });
-</script>
-
 # [Siddharth Mathur](https://www.smathur.tk/)
 
 ## Recent Projects
@@ -57,3 +47,13 @@
 [Tech Multireddit](https://www.smathur.tk/tech)
 
 [Finance Multireddit](https://www.smathur.tk/money)
+
+<script src="https://cdn.signalfx.com/o11y-gdi-rum/latest/splunk-otel-web.js" crossorigin="anonymous">
+</script>
+<script>
+    SplunkRum.init({
+        beaconUrl: 'https://rum-ingest.us1.signalfx.com/v1/rum',
+        rumAuth: 'JUeo4BsZeSWJ8QA7RKV2yA',
+        app: 'personal-website'
+    });
+</script>
