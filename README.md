@@ -1,4 +1,4 @@
-# [Siddharth Mathur](https://www.smathur.tk/)
+# [About Me](https://www.smathur.tk/)
 
 ## Recent Projects
 
@@ -18,7 +18,7 @@
 
 [HumiraHelper](https://github.com/sidward35/HumiraHelper) - 🏆 [Hackathon Winner](https://twitter.com/abbvie/status/1145693699118174208)
 
-[Deauth/Rickroll AP](https://github.com/sidward35/Deauth-RickRollAP) - ⭐ 6 Stars, 🍴 3 Forks
+[Deauth/Rickroll AP](https://github.com/sidward35/Deauth-RickRollAP) - ⭐ 8 Stars, 🍴 4 Forks
 
 [ESP8266 Smoke Alarm](https://github.com/sidward35/esp8266-smoke-alarm) - ⭐ 1 Star
 
