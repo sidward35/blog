@@ -1,4 +1,4 @@
-# [About Me](https://www.smathur.tk/)
+# [Siddharth Mathur](https://www.smathur.tk/)
 
 ## Recent Projects
 
