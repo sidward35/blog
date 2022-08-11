@@ -1,4 +1,4 @@
-# [Siddharth Mathur](https://www.smathur.tk/)
+# [Siddharth Mathur](https://sidward35.github.io/)
 
 ## Recent Projects
 
@@ -28,17 +28,17 @@
 
 [Splunk App for Stock Market Analysis](https://github.com/sidward35/splunk-stocks-analysis) - ⭐ 3 Stars, 🍴 1 Fork
 
-[Trade Stocks with Alexa/Google Home](https://www.smathur.tk/VoiceTrader/) - 🍴 1 Fork
+[Trade Stocks with Alexa/Google Home](https://sidward35.github.io/VoiceTrader/) - 🍴 1 Fork
 
 [DJIA Rankings with Pandas](https://github.com/sidward35/heroku-stocks-analysis) - [See it in action here](http://djia.smathur.tk)
 
 ### Splunk
 
-[Splunk + Facebook Messenger](https://www.smathur.tk/splunk-messenger/) - ⭐ 1 Star
+[Splunk + Facebook Messenger](https://sidward35.github.io/splunk-messenger/) - ⭐ 1 Star
 
-[Splunk Your Minecraft Server](https://www.smathur.tk/SplunkMC/) - ⭐ 1 Star
+[Splunk Your Minecraft Server](https://sidward35.github.io/SplunkMC/) - ⭐ 1 Star
 
-[Splunk Trip Tracker](https://www.smathur.tk/splunk-trip-tracker)
+[Splunk Trip Tracker](https://sidward35.github.io/splunk-trip-tracker)
 
 ### Other
 
@@ -52,9 +52,9 @@
 
 ## Other Content
 
-[Tech Multireddit](https://www.smathur.tk/tech)
+[Tech Multireddit](https://sidward35.github.io/tech)
 
-[Finance Multireddit](https://www.smathur.tk/money)
+[Finance Multireddit](https://sidward35.github.io/money)
 
 <script src="https://cdn.signalfx.com/o11y-gdi-rum/latest/splunk-otel-web.js" crossorigin="anonymous">
 </script>
