@@ -2,7 +2,7 @@
 
 ## Recent Projects
 
-[MiniViz - Live treemap visual of the S&P 500](https://www.miniviz.cf)
+[MiniViz - Live treemap visual of the S&P 500](https://miniviz-s3.herokuapp.com/)
 
 [Letterboxd + Justwatch](https://github.com/sidward35/letterboxd-justwatch) - ⭐ 2 Stars
 
