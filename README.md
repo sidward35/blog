@@ -30,7 +30,7 @@
 
 [Trade Stocks with Alexa/Google Home](https://sidward35.github.io/VoiceTrader/) - 🍴 1 Fork
 
-[DJIA Rankings with Pandas](https://github.com/sidward35/heroku-stocks-analysis) - [See it in action here](http://djia.smathur.tk)
+[DJIA Rankings with Pandas](https://github.com/sidward35/heroku-stocks-analysis) - [See it in action here](https://djia-list.herokuapp.com)
 
 ### Splunk
 
@@ -44,7 +44,7 @@
 
 [Apprisen 2.0](https://github.com/sidward35/Apprisen2.0) - 🏆 [Hackathon Winner](https://twitter.com/Apprisen/status/1185649343870582784)
 
-[Visualizing US Spending with Python](https://github.com/sidward35/usa_spending) - [See it in action here](https://www.usbudget.tk)
+[Visualizing US Spending with Python](https://github.com/sidward35/usa_spending) - [See it in action here](https://usa-budgets.herokuapp.com) (desktop) or [here](https://usa-budgets-mobile.herokuapp.com) (mobile)
 
 [Marvle (Marvel-themed Wordle)](https://github.com/sidward35/marvle) - [Play the game here](https://marvle.herokuapp.com)
 
