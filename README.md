@@ -6,7 +6,7 @@
 
 [Letterboxd + Justwatch](https://github.com/sidward35/letterboxd-justwatch) - ⭐ 2 Stars
 
-[Sherlock Username Search](https://github.com/sidward35/sherlock-web) - [Try it out here](https://www.sleuth.ga)
+[Sherlock Username Search](https://github.com/sidward35/sherlock-web) - [Try it out here](https://sherlock-web.herokuapp.com)
 
 ## Top Projects
 
