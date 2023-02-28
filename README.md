@@ -4,7 +4,7 @@
 
 [MiniViz - Live treemap visual of the S&P 500](http://m-viz.gitlab.io/)
 
-[Letterboxd + Justwatch](https://github.com/sidward35/letterboxd-justwatch) - ⭐ 2 Stars
+[Letterboxd + Justwatch](https://github.com/sidward35/letterboxd-justwatch) - ⭐ 7 Stars
 
 [Sherlock Username Search](https://github.com/sidward35/sherlock-web) - [Try it out here](https://sherlock-web.herokuapp.com)
 
@@ -14,13 +14,13 @@
 
 [FoodCyclr](https://github.com/sidward35/FoodCyclr) - 🏆 [Hackathon Winner](https://devpost.com/software/foodcyclr), 🍴 1 Fork
 
-[PCPartPicker](https://github.com/sidward35/PCPartPicker) - 👨‍💼 Acknowledged by the CEO of PCPartPicker, LLC, ⭐ 5 Stars, 🍴 2 Forks
+[PCPartPicker](https://github.com/sidward35/PCPartPicker) - 👨‍💼 Acknowledged by the CEO of PCPartPicker, LLC, ⭐ 6 Stars, 🍴 2 Forks
 
 ### IoT
 
 [HumiraHelper](https://github.com/sidward35/HumiraHelper) - 🏆 [Hackathon Winner](https://twitter.com/abbvie/status/1145693699118174208)
 
-[Deauth/Rickroll AP](https://github.com/sidward35/Deauth-RickRollAP) - ⭐ 8 Stars, 🍴 4 Forks
+[Deauth/Rickroll AP](https://github.com/sidward35/Deauth-RickRollAP) - ⭐ 12 Stars, 🍴 4 Forks
 
 [ESP8266 Smoke Alarm](https://github.com/sidward35/esp8266-smoke-alarm) - ⭐ 1 Star
 
